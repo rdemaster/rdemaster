@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, education and music
 - 🌱 I’m currently learning how to use GitHub
 - 💞️ I’m looking to collaborate on ideas for online learning
-- 📫 How to reach me email 
+- 📫 mrdemaster@gmail.com
 
 <!---
 rdemaster/rdemaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
